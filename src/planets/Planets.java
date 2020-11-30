@@ -1,2 +1,4 @@
-package planets;public class Planets {
+package planets;
+
+public class Planets {
 }
